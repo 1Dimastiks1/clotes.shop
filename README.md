@@ -1,1 +1,1 @@
-# clotes.shop
+# clothes.shop
